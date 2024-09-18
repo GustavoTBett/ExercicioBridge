@@ -1,4 +1,6 @@
-package org.gustavotbett;
+package org.gustavotbett.objetos;
+
+import org.gustavotbett.Renderizador;
 
 public class Quadrado extends Forma{
 
